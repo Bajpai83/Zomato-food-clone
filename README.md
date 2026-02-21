@@ -1,18 +1,61 @@
-🍽️ Zomato Clone 🍽️
-🌟 Welcome to my Zomato clone! 🌟 This project is a clone of Zomato built using HTML, CSS, and JavaScript. 🌐✨# Zomato-food-clone
-Food delivery 
-Project Demo:https://github.com/Bajpai83/Zomato-food-clone
-🌟 Features 🌟
-🏠 Home Page 🏠
-🗺️ Navigation 🗺️: Includes options to add a restaurant, login, or sign up.
-🏙️ City-wise Restaurant Selection 🏙️: Allows users to choose restaurants based on their city.
-🔽 Footer 🔽: Standard footer at the bottom of the page.
-🛠️ Technologies Used 🛠️
-🌐 HTML
-🎨 CSS
-💻 JavaScript
-🚀 How to Use 🚀
-Clone the repository: https://github.com/nidhiupman568/ZOMATO-CLONE.git 🌐
-Open index.html in your web browser to view the application. 🌍
-🤝 Contributing 🤝
-Feel free to contribute to this project by forking it and submitting a pull request. ✨ Please follow the project's coding conventions and guidelines. 📜
+🍽️ Zomato Clone
+📌 Project Overview
+
+This project is a front-end clone of the Zomato homepage built using HTML and CSS.
+The goal of this project was to recreate the layout, structure, and design of a real-world food delivery website while practicing responsive web design.
+
+🔗 Live Demo:
+https://github.com/Bajpai83/Zomato-food-clone
+
+✨ Features
+
+🏠 Zomato-style homepage layout
+
+🗺️ Navigation bar with Login and Sign Up options
+
+🏙️ City selection section
+
+📱 Responsive design for different screen sizes
+
+🔽 Structured footer section
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
+
+JAVASCRIPT
+
+🚀 How to Run Locally
+
+Clone the repository:
+
+git clone https://github.com/your-username/ZOMATO-CLONE.git
+
+Open the project folder.
+
+Run index.html in your browser.
+
+📂 Project Structure
+
+index.html – Main homepage
+
+style.css – Styling file
+
+assets/ – Images and other resources (if applicable)
+
+📚 Learning Outcomes
+
+Improved understanding of HTML structure
+
+Practiced CSS layout and styling
+
+Gained experience in building responsive UI designs
+
+Learned how to deploy projects using GitHub Pages
+
+👩‍💻 Author
+
+Astha Bajpai
+B.Tech CSE Student
