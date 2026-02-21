@@ -31,7 +31,7 @@ JAVASCRIPT
 
 Clone the repository:
 
-git clone https://github.com/your-username/ZOMATO-CLONE.git
+git clone https://github.com/Bajpai83/ZOMATO-CLONE.git
 
 Open the project folder.
 
