@@ -43,7 +43,7 @@ index.html – Main homepage
 
 style.css – Styling file
 
-assets/ – Images and other resources (if applicable)
+assets/ – Images and other resources
 
 📚 Learning Outcomes
 
